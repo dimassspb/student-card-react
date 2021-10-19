@@ -9,7 +9,7 @@ import Form from './pages/Form.jsx';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename='/student-card-react'>
         <Switch>
           <Route exact path="/" component={Home} />
           <Route path="/form" component={Form} />
