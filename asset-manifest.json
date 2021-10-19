@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/student-card-react/static/css/main.a5ee0aae.chunk.css",
+    "main.js": "/student-card-react/static/js/main.19ade391.chunk.js",
+    "main.js.map": "/student-card-react/static/js/main.19ade391.chunk.js.map",
+    "runtime-main.js": "/student-card-react/static/js/runtime-main.616e14d3.js",
+    "runtime-main.js.map": "/student-card-react/static/js/runtime-main.616e14d3.js.map",
+    "static/js/2.c894b0cf.chunk.js": "/student-card-react/static/js/2.c894b0cf.chunk.js",
+    "static/js/2.c894b0cf.chunk.js.map": "/student-card-react/static/js/2.c894b0cf.chunk.js.map",
+    "index.html": "/student-card-react/index.html",
+    "static/css/main.a5ee0aae.chunk.css.map": "/student-card-react/static/css/main.a5ee0aae.chunk.css.map",
+    "static/js/2.c894b0cf.chunk.js.LICENSE.txt": "/student-card-react/static/js/2.c894b0cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.616e14d3.js",
+    "static/js/2.c894b0cf.chunk.js",
+    "static/css/main.a5ee0aae.chunk.css",
+    "static/js/main.19ade391.chunk.js"
+  ]
+}
